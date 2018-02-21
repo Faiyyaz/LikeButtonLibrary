@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="LikeButton">
+        <attr name="btn_color" format="color" />
+        <attr name="btn_fill_color" format="color" />
+        <attr name="like_count" format="integer" />
+        <attr name="like_turn_angle" format="float" />
+        <attr name="small_like_offset_angle" format="float" />
+        <attr name="enable_flashing" format="boolean" />
+        <attr name="allow_random_color" format="boolean" />
+        <attr name="small_like_color" format="color" />
+        <attr name="big_like_color" format="color" />
+        <attr name="like_animation_duration" format="integer" />
+        <attr name="click_animation_duration" format="integer" />
+        <attr name="like_distance_multiple" format="float" />
+        <attr name="like_size" format="dimension" />
+    </declare-styleable>
+    <declare-styleable name="PorterShapeImageView">
+        <attr name="shape" format="integer|reference" />
+    </declare-styleable>
+</resources>
