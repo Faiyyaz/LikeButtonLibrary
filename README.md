@@ -6,7 +6,7 @@ LikeButton has been created by using ShineButton relased by ChadCSong but it has
 
 LikeButton can be used in your project by using the following implementation statement
 
-```implementation 'com.dexter.likebutton:like:1.0'```
+```implementation 'com.dexter.likebutton:like:1.0.1'```
 
 ## Usage
 ```java
