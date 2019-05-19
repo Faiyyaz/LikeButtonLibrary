@@ -3,10 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/LikeButtonLibrary.iml" filepath="$PROJECT_DIR$/LikeButtonLibrary.iml" />
-      <module fileurl="file://$PROJECT_DIR$/LikeButtonLibrary.iml" filepath="$PROJECT_DIR$/LikeButtonLibrary.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/likebuttonlib/likebuttonlib.iml" filepath="$PROJECT_DIR$/likebuttonlib/likebuttonlib.iml" />
       <module fileurl="file://$PROJECT_DIR$/likebuttonlib/likebuttonlib.iml" filepath="$PROJECT_DIR$/likebuttonlib/likebuttonlib.iml" />
     </modules>
   </component>
